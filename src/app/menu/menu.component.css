@@ -1,0 +1,30 @@
+.space {
+    flex: 1 1 auto;
+  }
+
+span{
+    padding: 20px;
+}
+
+  img{
+    height: 100px;
+    width: 100px;  
+  }
+
+  a{
+    text-decoration: none;
+  }
+  mat-toolbar {
+    background-color:rgb(241, 241, 255);
+    color: black;
+  }
+  
+  mat-toolbar a {
+    color: black; 
+    font-weight: bold;
+  }
+  
+  mat-toolbar a:hover {
+    color:rgb(50, 42, 105); 
+  }
+  
